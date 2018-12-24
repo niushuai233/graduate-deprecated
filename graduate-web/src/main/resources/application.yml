@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: mysql
+  output:
+    ansi:
+      enabled: always
